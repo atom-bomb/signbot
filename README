@@ -1,0 +1,10 @@
+here lies some python nonsense to allow folks on the #acemonstertoys channel
+of freenode to display stuff on the LED sign hanging up at ace monster toys irl.
+
+this stuff needs Joel Rosdahl's LGPL'd ircbot.py that you can get from here:
+http://python-irclib.sourceforge.net/
+
+for a bunch of links and infomation about the LED sign and this project,
+look here:
+http://wiki.acemonstertoys.org/Led_signs
+
